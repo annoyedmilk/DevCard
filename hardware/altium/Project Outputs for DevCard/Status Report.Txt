@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [DevCard.PcbDoc]
+   Generated File[DevCard.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:30:45 On 16.02.2024
